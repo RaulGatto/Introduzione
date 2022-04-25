@@ -7,15 +7,15 @@ Da copiare ed incollare (mantenendo la formattazione Markdown) come [nuova issue
 ```markdown
 ### Studente proponente
 
-s123456 Rossi Mario
+s271105 Gatto Raul
 
 ### Titolo della proposta
 
-Risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto
+Applicazione di gestione team di Teamfight Tactics
 
 ### Descrizione del problema proposto
 
-Quale problema si intende risolvere (5-10 righe)
+Teamfight Tacticts è un videogioco strategico a turni basato sull'utilizzo di carte, ognuna delle quali possiede diverso costo, potenza e caratteristiche. L'obiettivo è costruire un team attorno alle caratteristiche di queste carte, dette tratti, in modo da massimizzarne il numero di tratti attivi all'interno del team oppure la potenza di uno specifico tratto condiviso da molte carte. La creazione di questo team può risultare complessa in quanto esistono molte carte e molti tratti, così come la necessità di rispettare la propria disponibilità economica. Lo sviluppo di questo software aiuterà la costruzione del team in base alla selezione di un tratto o di due carte, restituendo una lista di possibili team derivati dall'input dato, ordinandoli in base al loro tasso di vincita. Una volta scelto il team verranno forniti i migliori aumenti, un'altra caratteristica del gioco. Nelle fasi più avanzate della partita sarà possibile invece inserire i nomi delle carte scelte in una casella di testo, e il programma adatterà la risposta suggerendo le carte da abbandonare e quali invece cercare.
 
 ### Descrizione della rilevanza gestionale del problema
 
